@@ -1,1 +1,2 @@
-# BOOK-RECOMMEDATION-WEBSITE
+# Book-Recommendation
+Book Recommendation and Review Website
